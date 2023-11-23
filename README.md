@@ -18,7 +18,7 @@ The curriculum is structured into multiple modules, each addressing a key area o
 - Ad-hoc polymorphism, operator overloading, Orthodox Canonical class form, and fixed-point arithmetic.
 
 ### [Module 03 - Inheritance](https://github.com/aelmaar/cpp-module-03)
-- Inheritance basics, types of inheritance, access specifiers, and polymorphism with virtual functions.
+- Inheritance basics, types of inheritance, access specifiers.
 
 ### [Module 04 - Subtype Polymorphism, Abstract Classes, Interfaces](https://github.com/aelmaar/cpp-module-04)
 - Subtype polymorphism, abstract classes, and interfaces.
